@@ -1,0 +1,5 @@
+[package]
+name = "noir_json_parser_bugs"
+authors = ["grasshopper47"]
+type = "bin"
+compiler_version = "0.19.2"
